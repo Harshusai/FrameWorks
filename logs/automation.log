@@ -1,0 +1,26 @@
+01:48:24.154 [main] INFO  testCases.Testcase1 - -----starting-----
+01:48:24.200 [main] INFO  testCases.Testcase1 - clicked on myaccount
+01:48:24.339 [main] INFO  testCases.Testcase1 - Registartion done
+01:48:25.378 [main] INFO  testCases.Testcase1 - password generated 
+01:48:26.484 [main] INFO  testCases.Testcase1 - -----Ending-----
+01:52:00.523 [main] INFO  testCases.Testcase1 - -----starting-----
+01:52:00.574 [main] INFO  testCases.Testcase1 - clicked on myaccount
+01:52:00.717 [main] INFO  testCases.Testcase1 - Registartion done
+01:52:01.653 [main] INFO  testCases.Testcase1 - password generated 
+01:52:02.966 [main] INFO  testCases.Testcase1 - -----Ending-----
+01:57:54.530 [main] INFO  testCases.Testcase1 - starting TestCase
+01:57:54.576 [main] INFO  testCases.Testcase1 - clicked on myaccount
+01:57:54.729 [main] INFO  testCases.Testcase1 - Registartion now 
+01:57:55.231 [main] INFO  testCases.Testcase1 - Entered your first and last name
+01:57:55.507 [main] INFO  testCases.Testcase1 - MailID entered
+01:57:55.656 [main] INFO  testCases.Testcase1 - password generated 
+01:57:56.701 [main] INFO  testCases.Testcase1 - Ending TestCase
+01:57:56.703 [main] ERROR testCases.Testcase1 - i'm error message
+02:05:46.785 [main] INFO  testCases.Testcase1 - starting TestCase
+02:05:46.828 [main] INFO  testCases.Testcase1 - clicked on myaccount
+02:05:46.982 [main] INFO  testCases.Testcase1 - Registartion now 
+02:05:47.456 [main] INFO  testCases.Testcase1 - Entered your first and last name
+02:05:47.770 [main] INFO  testCases.Testcase1 - MailID entered
+02:05:47.950 [main] INFO  testCases.Testcase1 - password generated 
+02:05:49.086 [main] INFO  testCases.Testcase1 - Ending TestCase
+02:05:49.086 [main] ERROR testCases.Testcase1 - i'm error message
